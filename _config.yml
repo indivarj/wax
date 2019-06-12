@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'Carto-Hyderabad'
+description:      'Cartography in Modern Hyderabad'
 url:              'https://indivarj.github.io'
-baseurl:          '/wax'
+baseurl:          '/hydmaps'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -64,13 +64,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  katsukawa: # name of collection
+  hyderabadmaps: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'katsukawa_item' # the layout for the pages to use
+    layout: 'hyderabadmaps_item' # the layout for the pages to use
     metadata:
-      source: 'katsukawa_records.csv' # path to the metadata file within `_data`
+      source: 'hyderabadmaps.csv' # path to the metadata file within `_data`
     images:
-      source: 'katsukawa_images' # path to the directory of images within `_data`
+      source: 'hyderabadmaps' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -84,14 +84,13 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      katsukawa:
+      hyderabadmaps:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - label
-          - artist
-          - description
           - _date
-          - medium
+          - cartographer
+          - source
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -111,9 +110,9 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'Housing Atlas'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: 'Muslim Neighborhoods'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
@@ -130,11 +129,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/indivarj'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'indivarj@outlook.com'
   logos:
     - img: '/img/logo.png'
 

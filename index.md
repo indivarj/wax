@@ -2,20 +2,16 @@
 layout: page
 show_title: false
 banner:
-  collection: katsukawa
-  pid: rijks_kasukawa_002
-  y: 25%
+  collection: hyderabadmaps
+  pid: uniq01
+  y: 50%
   height: '500px'
 ---
 
-__Wax__ is THE [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+__Carto-Hyderabad__ is a [minimal computing](http://go-dh.github.io/mincomp/) project dedicated to documenting Hyderabad's history through maps and plans. This archival site gathers in one place the earliest modern plans of Hyderabad, and Leonard Munn's comprehensive surveys, to sociological maps from the mid-century and stylized maps produced at Hyderabad Urban Lab.
 
-This site's sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are various works by [Katsukawa Shunsho](https://en.wikipedia.org/wiki/Katsukawa_Shunsh%C5%8D). The images are compiled from [WikiMedia](https://commons.wikimedia.org/wiki/Katsukawa_Shunsh%C5%8D).
-
-The Collection includes objects in the following media:
-- Paper
-- Woodcut on paper
+This site currently includes maps from four time periods. Additional citational information can be found on individual item pages.
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='medium' collection='katsukawa' %}
+{% include collection_gallery.html facet_by='_date' collection='hyderabadmaps' %}
