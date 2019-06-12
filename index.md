@@ -10,7 +10,11 @@ banner:
 
 __Wax__ is THE [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+This site's sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are various works by [Katsukawa Shunsho](https://en.wikipedia.org/wiki/Katsukawa_Shunsh%C5%8D). The images are compiled from [WikiMedia](https://commons.wikimedia.org/wiki/Katsukawa_Shunsh%C5%8D).
+
+The Collection includes objects in the following media:
+- Paper
+- Woodcut on paper
 
 ### Browse the Collection
 
