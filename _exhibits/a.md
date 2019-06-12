@@ -6,7 +6,7 @@ publish_date: 2018-11-15
 permalink: /exhibits/a/
 ---
 
-This Housing Atlas was created by Harsha D. using data collected for RAY in 2011.
+This Housing Atlas was created at [Hyderabad Urban Lab](https://hydlab.in) primarily by [Harsha D.](https://harshadevulapalli.tumblr.com/) using data collected for RAY in 2011.
 
 Most cities in the developing world such as Hyderabad, tend to have data in closed and archaic formats which impede interoperability. They also lack inventories to keep stock of multiple datasets across space and time (e.g. it is hard to find any data on pre-1990 municipal wards for Hyderabad). The periodic realignment of administrative boundaries and enumeration blocks makes it especially hard to build cohesive datasets over time. Uncertainty about data rights is another major problem. These issues often represent obstacles for anyone interested in doing research in these cities.
 
