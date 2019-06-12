@@ -21,7 +21,7 @@
 title:            'Carto-Hyderabad'
 description:      'Cartography in Modern Hyderabad'
 url:              'https://indivarj.github.io'
-baseurl:          '/hydmaps'
+baseurl:          '/wax'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
