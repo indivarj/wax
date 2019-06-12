@@ -6,7 +6,11 @@ permalink: /about/
 
 Lorem *ipsum dolor* amet gluten-free trust fund activated charcoal, normcore art party pok pok live-edge. Glossier beard plaid, cred 3 wolf moon activated charcoal fanny pack direct trade godard vexillologist ***distillery*** gochujang roof party umami. Flannel health goth ugh mumblecore pok pok hella. Salvia knausgaard keytar locavore before they sold out. Organic roof party craft beer, kombucha mixtape keytar four dollar toast godard mustache lomo. Shaman offal everyday carry semiotics bushwick.
 
+## Introduction
+
 Polaroid brunch cold-pressed, yuccie af poke air plant try-hard. Shaman cred brunch pok pok actually sartorial flexitarian try-hard taxidermy forage. Scenester meh cronut messenger bag forage, pinterest farm-to-table food truck chia tousled master cleanse distillery deep v four loko. [Beard occupy shaman cred](http://en.wikipedia.org), microdosing DIY poutine tumeric kickstarter whatever humblebrag cold-pressed YOLO pabst iPhone.
+
+### Features
 
 Pour-over pickled selfies, waistcoat cold-pressed fam letterpress four dollar toast taxidermy. You probably haven't heard of them iceland pok pok[^A] hashtag jianbing palo santo unicorn readymade. Small batch live-edge neutra raw denim trust fund tumblr, art party keytar iceland cronut hammock austin. Fixie tote bag pug chia PBR&B, edison bulb try-hard celiac. Tbh ramps cold-pressed, lomo venmo literally YOLO meh skateboard bitters hashtag franzen.
 
