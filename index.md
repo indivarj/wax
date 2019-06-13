@@ -8,7 +8,7 @@ banner:
   height: '500px'
 ---
 
-__Carto-Hyderabad__ is a [minimal computing](http://go-dh.github.io/mincomp/) project dedicated to documenting Hyderabad's history through maps and plans. This archival site gathers in one place the earliest modern plans of Hyderabad, and Leonard Munn's comprehensive surveys, to sociological maps from the mid-century and stylized maps produced at Hyderabad Urban Lab.
+__Carto-Hyderabad__ is a [minimal computing](http://go-dh.github.io/mincomp/) project dedicated to documenting Hyderabad's history through maps and plans. This archival site gathers in one place maps ranging from the earliest modern plans of Hyderabad, and Leonard Munn's comprehensive surveys, to sociological maps from the mid-century and stylized maps produced at Hyderabad Urban Lab.
 
 This site currently includes maps from four time periods. Additional citational information can be found on individual item pages.
 
