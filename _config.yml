@@ -105,7 +105,7 @@ menu:
       - label: '150 Years of Mapping Hyderabad'
         link: '/about/'
       - label: 'Additional Sources'
-        link: 'additional_sources'
+        link: '/additional_sources/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
