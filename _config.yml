@@ -23,7 +23,7 @@ description:      'Cartography in Modern Hyderabad'
 url:              'https://indivarj.github.io'
 baseurl:          '/wax'
 copyright:        'Example copyright org, 2019'
-logo:             '/assets/logo.png'
+logo:             '/img/banner.jpg'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
