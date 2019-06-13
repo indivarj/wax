@@ -114,6 +114,8 @@ menu:
         link: '/exhibits/a/'
       - label: 'Muslim Neighborhoods'
         link: '/exhibits/b/'
+      - label: 'Defining Hyderabad Metropolitan Area'
+        link: '/exhibits/b2/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
