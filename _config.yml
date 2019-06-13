@@ -130,12 +130,10 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
-      link: 'https://github.com/indivarj'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'indivarj@outlook.com'
+      link: 'https://github.com/indivarj'
   logos:
     - img: '/img/logo.png'
 
